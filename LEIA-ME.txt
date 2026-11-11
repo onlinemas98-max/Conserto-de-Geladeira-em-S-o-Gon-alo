@@ -1,0 +1,21 @@
+PROJETO: CONSERTO DE GELADEIRA EM SÃO GONÇALO
+
+Conteúdo:
+- index.html: página principal com formulário e cards para todas as páginas internas.
+- 34 páginas internas: conteúdo organizado por serviços, defeitos, marcas, bairros e preços.
+- admin-leads.htm: painel local com senha 2504.
+- style.css e app.js: estilos e funções compartilhadas.
+- sitemap.xml e robots.txt: arquivos de rastreamento.
+
+ANTES DE PUBLICAR:
+1. Substitua todas as ocorrências de https://SEU-DOMINIO.github.io/conserto-de-geladeira-sao-goncalo/ pelo endereço real do seu GitHub Pages.
+2. Se o nome do repositório GitHub for diferente, ajuste também a URL base.
+3. Publique todos os arquivos na raiz do repositório, mantendo os nomes.
+4. Atualize o sitemap no Google Search Console após a publicação.
+
+IMPORTANTE SOBRE OS LEADS E A SENHA:
+Esta versão é HTML/CSS/JavaScript puro e não possui servidor ou banco de dados. Para permitir que visitantes enviem pedidos e que você os veja em outro computador/celular, é necessário conectar um backend ou serviço de formulários. Nesta versão demonstrativa, os pedidos ficam no localStorage do navegador em que foram enviados; portanto, não são transmitidos para o administrador nem sincronizados entre dispositivos.
+A senha 2504 no painel é uma barreira visual simples em JavaScript, não uma autenticação segura. Não armazene dados sensíveis nesta versão. Para uso real, conecte autenticação e armazenamento no servidor.
+
+SOBRE O CONTEÚDO:
+As páginas são modelos informativos iniciais. Confirme que os serviços, marcas, bairros e disponibilidade correspondem ao prestador real antes de anunciar. Não há promessa de atendimento, preço ou diagnóstico.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin-leads.htm
+Sitemap: https://SEU-DOMINIO.github.io/conserto-de-geladeira-sao-goncalo/sitemap.xml
